@@ -14,7 +14,7 @@ const LoginForm = () => {
         password:""
     })
 
-    const [data,setData] = useState([]);
+    // const [data,setData] = useState([]);
 
     console.log(userval)
     const getdata = (e) => {
